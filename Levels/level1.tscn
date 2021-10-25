@@ -668,6 +668,7 @@ polygon = PoolVector2Array( 12, -48.7, 23, -35.7, 23, -32.4, 25, -27.9, 25, 27.1
 [node name="Camera" type="Camera2D" parent="."]
 current = true
 limit_left = 0
+limit_top = -300
 limit_right = 3780
 limit_bottom = 630
 limit_smoothed = true
