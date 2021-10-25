@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Friends.ogg-5a46e4c6cb96165ba0f3d2597f36cc4d.oggstr"
+
+[deps]
+
+source_file="res://Assets/Friends.ogg"
+dest_files=[ "res://.import/Friends.ogg-5a46e4c6cb96165ba0f3d2597f36cc4d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
