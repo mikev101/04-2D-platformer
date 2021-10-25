@@ -6,8 +6,16 @@ A somewhat-generic 2D platformer built in Godot.
 
 ## Implementation
 Built using Godot 3.2.3
-
 The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
+
+Main features beyond base requirements:
+- Player can attack enemies
+- Player can wall hang and wall jump
+- 3 Custom-made levels
+- 3 Custom-made enemies
+- Screen shake and screen effects on damage and death
+- Player has multiple lives
+- Moving platforms
 
 ## References
 Mechanics and Functionality derived form this [YouTube Series](https://www.youtube.com/watch?v=btZhuUOtppc&list=PL3V-_hJz2cV9H5MfHawcQOSgLniG3iT8w&index=2)
