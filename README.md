@@ -16,10 +16,15 @@ Main features beyond base requirements:
 - Screen shake and screen effects on damage and death
 - Player has multiple lives
 - Moving platforms
+- Added Soundtracks for levels and Menu screens
 
 ## References
 Mechanics and Functionality derived form this [YouTube Series](https://www.youtube.com/watch?v=btZhuUOtppc&list=PL3V-_hJz2cV9H5MfHawcQOSgLniG3iT8w&index=2)
 Orbitron typeface by [Matt McInerney](https://fonts.google.com/specimen/Orbitron)
+
+Music and Sound by:
+Patrick De Arteaga [Arcade music](https://patrickdearteaga.com/arcade-music/)
+tracks used: Chiptronical, Electronic Fantasy, Interstellar Odyssey, Friends, and Blues
 
 Terrain and Tiles:
 [kenney.nl](https://kenney.nl/assets/abstract-platformer)
