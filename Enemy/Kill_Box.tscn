@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Enemy/Kill_Box.gd" type="Script" id=1]
+
+[sub_resource type="RectangleShape2D" id=12]
+extents = Vector2( 6856.8, 87.1035 )
+
+[node name="Kill_Box" type="Area2D"]
+script = ExtResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 1907.11, 699.993 )
+shape = SubResource( 12 )
+
+[connection signal="body_entered" from="." to="." method="_on_Kill_Box_body_entered"]
